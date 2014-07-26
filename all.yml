@@ -11,6 +11,16 @@
     package_name: spectacle
   - role: cask_package
     package_name: spotify
+  - role: cask_package
+    package_name: iterm2
+  - role: cask_package
+    package_name: google-hangouts
+  - role: cask_package
+    package_name: dropbox
+  - role: cask_package
+    package_name: screenhero
+  - role: cask_package
+    package_name: menumeters
 
   ## vms
   - role: cask_package
